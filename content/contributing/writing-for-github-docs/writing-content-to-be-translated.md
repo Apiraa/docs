@@ -65,12 +65,3 @@ Vague nouns and pronouns can make it unclear who or what you are referring to, e
 
 Where possible, clearly introduce links following our style guide. For example, instead of the following sentence:
 
-```markdown
-Read [more about OAuth2.](/apps/building-integrations/setting-up-and-registering-oauth-apps/) Note that OAuth2 tokens can be [acquired programmatically](/rest/reference/oauth-authorizations/#create-a-new-authorization), for applications that are not websites.
-```
-
-You can use this instead:
-
-```markdown
-OAuth2 tokens can be acquired programmatically for applications that are not websites. For more information, see "[Setting up and registering OAuth Apps](apps/building-integrations/setting-up-and-registering-oauth-apps/)" and "[Create a new authorization](/rest/reference/oauth-authorizations/#create-a-new-authorization)."
-```
